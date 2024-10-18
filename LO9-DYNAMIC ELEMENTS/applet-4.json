@@ -1,0 +1,21 @@
+[
+    {
+      "student_id": 1,
+      "student_name": "Mark Anthony",
+      "student_program": "BS - Information Technology",
+      "student_enrolled_date": "2023-01-15"
+    },
+    {
+      "student_id": 2,
+      "student_name": "Lenibeth",
+      "student_program": "BSBA",
+      "student_enrolled_date": "2023-02-20"
+    },
+    {
+      "student_id": 3,
+      "student_name": "jonthan",
+      "student_program": "TEP",
+      "student_enrolled_date": "2023-03-10"
+    }
+  ]
+  
