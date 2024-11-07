@@ -1,0 +1,26 @@
+[
+    {
+        "student_name": "Mark anthony",
+        "student_age": "19",
+        "student_program": "computer science",
+        "student_yearlevel": "second Year"
+    },
+    {
+        "student_name": "barbie",
+        "student_age": "25",
+        "student_program": "Multimedia",
+        "student_yearlevel": "fourth year"
+    },
+    {
+        "student_name": "koikoi",
+        "student_age": "21",
+        "student_program": "business ad",
+        "student_yearlevel": "second year"
+    },
+    {
+        "student_name": "geng geng",
+        "student_age": "23",
+        "student_program": "electrical engineering",
+        "student_yearlevel": "third year"
+    }
+]
